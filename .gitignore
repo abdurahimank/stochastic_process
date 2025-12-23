@@ -1,0 +1,14 @@
+# Ignore all data files and folders
+data/
+
+# Ignore Jupyter notebook checkpoints (anywhere)
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS / editor files
+.DS_Store
+.vscode/
